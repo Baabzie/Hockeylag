@@ -63,5 +63,3 @@ addPlayerBtn.addEventListener("click", () => {
     }
     playerInput.value = ""; 
 });
-
-//hallojhalloj
